@@ -1,0 +1,9 @@
+server:
+#  API端口
+  port: 8090
+  servlet:
+    context-path: /api
+
+spring:
+  application:
+    name: hello
